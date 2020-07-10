@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e686208-84eb-49e0-81c6-d3095f477287" name="Default Changelist" comment="" />
+    <list default="true" id="1e686208-84eb-49e0-81c6-d3095f477287" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +25,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -52,13 +54,23 @@
       <option name="presentableId" value="Default" />
       <updated>1586210696826</updated>
       <workItem from="1586210698949" duration="4406000" />
+      <workItem from="1586216206902" duration="9000" />
+      <workItem from="1586736349239" duration="614000" />
+      <workItem from="1589127521330" duration="1274000" />
+      <workItem from="1589434926158" duration="677000" />
+      <workItem from="1591498424359" duration="599000" />
+      <workItem from="1593393054431" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1593393085145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593393085145" />
     <state x="463" y="165" key="SettingsEditor" timestamp="1586210947715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
