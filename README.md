@@ -1,3 +1,4 @@
 # CFHelp
 Build a new help page for CF.
-sadfdsafds
+
+We are currently on hold for this project.
